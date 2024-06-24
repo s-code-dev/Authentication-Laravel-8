@@ -8,7 +8,8 @@ ____
 
 ____
 
-Author : -s
+> Автор кода: -s |
+> Почта: j.wind@internet.ru
 
 
 
