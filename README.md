@@ -9,7 +9,7 @@ ____
 ____
 
 > Автор кода: -s |
-> Почта: j.wind@internet.ru
+> Почта: j.wind@list.ru
 
 
 
