@@ -1,15 +1,15 @@
-### Пример собcтвенной регистрации и авторизации на Laravel 8
+### Example of self-registration and authorization on Laravel 8 >
 ____
 
-* Скачайте проект с github
-* Выполните команду: Composer install
-* Подключите msql БД
-* Выполните команду php artisan migrate
+* Download the project from github
+* Run the command: Composer install
+* Connect msql DB
+* Run the php artisan migrate command 
 
 ____
 
-> Автор кода: -s |
-> Почта: j.wind@list.ru
+> Code Author: -s |
+> > Mail: j.wind@list.ru
 
 
 
